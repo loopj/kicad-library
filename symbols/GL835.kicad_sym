@@ -62,7 +62,7 @@
 				)
 			)
 			(pin power_out line
-				(at -12.7 -12.7 0)
+				(at -12.7 -5.08 0)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -188,7 +188,7 @@
 				)
 			)
 			(pin power_out line
-				(at -12.7 -10.16 0)
+				(at -12.7 -7.62 0)
 				(length 2.54)
 				(name "SDREG"
 					(effects
@@ -494,7 +494,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -3.81 0)
+				(at -12.7 -12.7 0)
 				(length 2.54)
 				(name "PIO5"
 					(effects
